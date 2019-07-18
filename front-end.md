@@ -22,6 +22,6 @@ A big bonus is experience with NPM, Solidity, ERC20 Tokens and Etheruem smart co
 
 Our office is located in a very central location in Sofia, Bulgaria.
 
-The position is in-house. No remote applications.
+The position is local. No remote applications.
 
 If you're interested or have someone to recommend, contact us at contactus@adex.network
